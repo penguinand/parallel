@@ -7,4 +7,4 @@ ivf_scan与main4综合运行，为ivf优化
 
 pq_scan与main5综合运行，为pq优化
 
-hnswlib图索引目前只是一个初步框架
+hnsw_scan图索引目前只是一个初步框架
