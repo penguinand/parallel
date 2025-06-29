@@ -10,7 +10,7 @@
 #include <sys/types.h>
 #include <sys/wait.h>
 #include <omp.h>
-#include "pq_scan.h"
+#include "scan.h"
 
 using namespace std;
 using Clock = chrono::high_resolution_clock;
