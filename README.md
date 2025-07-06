@@ -1,1 +1,1 @@
-submit GPU文件1、2对应本次GPU实验GPU优化1、GPU优化2
+期末研究报告中的新增内容已经在source_code下的ivf_scan.h中进行更新
